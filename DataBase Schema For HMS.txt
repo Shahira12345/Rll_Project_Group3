@@ -1,0 +1,14 @@
+create database hospital_management;
+use hospital_management;
+
+Tables:-
+   
+1.SELECT * FROM hospital_management.admin_sign_up;
+2.SELECT * FROM hospital_management.appointments;
+3.SELECT * FROM hospital_management.dischargedpatient;
+4.SELECT * FROM hospital_management.doctor;
+5.SELECT * FROM hospital_management.feedback;
+6.SELECT * FROM hospital_management.hibernate_sequence;
+7.SELECT * FROM hospital_management.patient;
+
+     
